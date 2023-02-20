@@ -361,3 +361,14 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/DateReservation/Resources/TestData/TestData.json
+/DateReservation/Resources/TestData/LoginUser.json
+/DateReservation/Utilities
+/DateReservation/Forms/Pages/TestPage.cs
+/DateReservation/Forms/Pages/SearchPage.cs
+/DateReservation/Forms/Pages/MessagesPage.cs
+/DateReservation/Forms/InvitationForm.cs
+/DateReservation/DateReservation.csproj
+/DateReservation/Models/TestModel.cs
+/DateReservation/Models/ProjectModel.cs
+/DateReservation/Forms/MainNavigationForm.cs
